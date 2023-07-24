@@ -1,5 +1,5 @@
 # Movie Recommendation System
-
+![Screenshot](images/screenshot2.png)
 This project aims to build a Movie Recommendation System using Content Filtering Recommendation and User-Based Filtering Recommendation techniques. The system is designed to provide personalized movie suggestions to users based on their preferences and historical interactions with movies.
 
 ## Content Filtering Recommendation
